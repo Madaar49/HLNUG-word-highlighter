@@ -25,13 +25,19 @@ def app():
         - After uploading a PDF, use the "+" sign at the corner of the box to choose how many unique words you want to highlight 
         - Select the corresponding colors under each word
     - **Download Highlighted PDFs**: After processing, download the highlighted PDF documents directly from the app.
-
+    - ** Output**: 
+                - A summary statistics of the frequency of highlighted words in the PDF
+                - Highlighted PDFs based on word and color match.
+                
     #### Multiple PDF 
     - **Upload the Folder path**: For multiple PDFs, copy and paste the path of your folder.
                 - Select number of unique words and corresponding colors.
                 - specify the input folder and the app will process all PDFs in that folder, saving the highlighted versions to an output folder.
     - **Download Highlighted PDFs**: After processing, download the highlighted PDF documents directly from the app.
     - **Output Location**: After processing, the highlighted PDFs will be located in an "output folder", located in your input folder.
+    - ** Output**: For every PDF
+                - A summary statistics of the frequency of highlighted
+                - Highlighted PDF based on word and color match.
                 
     ### Technologies Used
     - **Streamlit**: For creating the web application interface.
