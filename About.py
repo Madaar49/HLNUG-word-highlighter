@@ -23,7 +23,7 @@ def app():
     - **Upload a PDF**: Upload a single PDF by drag & drop, or browse to the directory.
     - **Specify Words and Colors**: 
         - After uploading a PDF, use the "+" sign at the corner of the box to choose how many unique words you want to highlight 
-        - Select the corresponding colors under each word
+        - Select the corresponding colors under each word.
     - **Download Highlighted PDFs**: After processing, download the highlighted PDF documents directly from the app.
     - ** Output**: 
                 - A summary statistics of the frequency of highlighted words in the PDF
