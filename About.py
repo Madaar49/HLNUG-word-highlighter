@@ -11,7 +11,7 @@ def app():
 
     ### Features
     - **Single PDF Highlighter**:
-        - Highlight a specific word in a single PDF document with user defined colors
+        - Highlight a specific word in a single PDF document with user defined colors.
         - Highlight multiple  words in a single PDF document with different user defined colors
     - **Multiple PDFs Highlighter**: Batch process multiple PDF documents in a folder.
         - Highlight single or multiple  words multiple PDF document in a folder, with user defined colors
